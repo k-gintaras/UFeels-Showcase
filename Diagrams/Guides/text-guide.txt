@@ -1,0 +1,19 @@
+Settings
+“Silent from to” notifies without sound or vibration during these times. It still allows you to answer how you feel if, for example, you can’t fall asleep, but don’t want to be disturbed.
+“Repeat interval” lets you choose how many times in 24hour day UFeels asks you about how you feel.
+“Ring or vibrate” lets you set if it vibrates or ring during notification. If your phone is on silent, UFeels notification may only vibrate.
+“Always take photo, location” allows you to quickly answer question holding just 1s and take picture and/or location right after it. Otherwise you can always choose holding 1-3s to save feeling and/or take picture and/or location.
+Strict mode shows question right after you unlock the phone with or without notification, while notification lets you click on it whenever convenient and only then answer.
+Background picture allows you to see previous image taken on each question prompt.
+“How many questions” set the amount of suggestions in each question prompt.
+Contribute mode enables random suggestions and uploads feelings online from time to time, to contribute to the world feelings research.
+If contribute mode is disabled, then the question suggestions are not random anymore, allows you to select your own choice and your UFeels data is not uploaded online.
+Location tracking allows you to save location whenever you press button to save location.
+
+Stats
+Each chart can be shared as image by clicking share and you can view more information about each feeling that might not fit in the chart, because of low frequency. You can also share these feelings as text.
+When you view feelings by image, there are four swipe directions. If there are more images for some feeling, you can swipe left right to see each image. To bring share menu swipe up, to go back swipe down or press back button.
+
+Question
+Contribute mode question has random suggestions for you to pick the feeling that is closest to what you feel. If you hold button for 1s it just saves feeling name and time. If you hold 2-3 secs, it prompts you to take picture and/or saves your location too.
+If contribute mode is disabled, question choices are fully selectable by you. These are not uploaded anywhere. This mode is fully offline and private, but you can still share your feelings data.
