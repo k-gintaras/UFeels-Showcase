@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**UFeels** is an Android application designed to help users track, categorize, and reflect on their emotions. By focusing on a privacy-first, offline approach, UFeels allows users to log and analyze their feelings without the need for registration or data sharing. The app offers a unique take on emotional tracking, providing options for custom emotion categorization and insightful data visualization.
+**UFeels** is an Android application designed to help users track, categorize, and reflect on their emotions. With a privacy-first, offline approach, UFeels allows users to log and analyze their feelings without needing registration or data sharing. The app offers a unique take on emotional tracking, providing options for custom emotion categorization and insightful data visualization.
 
 > _"What is a feeling, and how should it be categorized?"_ - UFeels tackles this complex question by allowing users to define and track their emotions in a way that suits them, rather than following rigid psychological classifications.
 
@@ -13,7 +13,7 @@
 ## Key Features
 
 - **Emotion Tracking**: Users can log their emotions with timestamps, location (optional), and custom categories.
-- **Data Visualization**: Emotions are visualized over time using charts and graphs, allowing users to identify patterns and triggers.
+- **Data Visualization**: Emotions are visualized over time, allowing users to identify patterns and triggers.
 - **Custom Categorization System**: Users can define their own emotional categories, moving beyond traditional "positive" or "negative" labels.
 - **Offline-First Design**: Data is stored locally, ensuring user privacy without requiring cloud storage or user accounts.
 - **Monetization**: In-app purchases are available through the Google Billing API, allowing for a monetized, ad-free experience.
@@ -28,20 +28,24 @@ UFeels was developed to address some of the challenges involved in emotional sel
 2. **Flexible Categorization**: UFeels doesn’t limit users to standard categorizations of emotions; instead, it allows for personal, subjective categorization.
 3. **Enhanced Self-Reflection**: The app is designed to discourage default responses (like "I’m fine") that can make self-development data less meaningful.
 
-![UFeels Process Diagram](https://github.com/k-gintaras/UFeels-Showcase/blob/master/Diagrams/UFeels-diagram.gdraw)
+![Main Screen - Free Mode](https://github.com/k-gintaras/UFeels-Showcase/blob/master/Screenshots/main-free.jpg)
+_Main screen showcasing free tracking mode._
+
+![Random Emotion Selection Mode](https://github.com/k-gintaras/UFeels-Showcase/blob/master/Screenshots/random-mode.jpg)
+_Random mode for spontaneous emotion tracking._
 
 ---
 
 ## Screenshots
 
-![Main Screen - Free Mode](https://github.com/k-gintaras/UFeels-Showcase/blob/master/Screenshots/in-app-screenshots/main-free.jpg)
-_Main screen showcasing free tracking mode._
-
-![Random Emotion Selection Mode](https://github.com/k-gintaras/UFeels-Showcase/blob/master/Screenshots/in-app-screenshots/random-mode.jpg)
-_Random mode for spontaneous emotion tracking._
-
-![Advanced Settings - No Ads](https://github.com/k-gintaras/UFeels-Showcase/blob/master/Screenshots/in-app-screenshots/settings-noads.jpg)
+![Settings Screen - No Ads](https://github.com/k-gintaras/UFeels-Showcase/blob/master/Screenshots/settings-noads.jpg)
 _Settings screen, ad-free experience with premium features._
+
+![Data Visualization - Stats](https://github.com/k-gintaras/UFeels-Showcase/blob/master/Screenshots/stats.jpg)
+_Visualization of emotional data through custom charts._
+
+![Stats - Day Overview](https://github.com/k-gintaras/UFeels-Showcase/blob/master/Screenshots/stats-friday.jpg)
+_Daily overview of emotions logged._
 
 ---
 
@@ -59,28 +63,22 @@ For further reading on emotional categories and concepts:
 - [Vocabulary of Emotions](https://www.vocabulary.com/lists/535865)
 - [PsychPage on Feelings](http://www.psychpage.com/learning/library/assess/feelings.html)
 
-![Example Chart - Emotion Frequency](https://github.com/k-gintaras/UFeels-Showcase/blob/master/Diagrams/Stats-Diagrams.gdraw)
+---
+
+## Download and Setup
+
+1. **Download**: Install the app from the [Google Play Store](https://play.google.com/store/apps/details?id=com.ideatheimage.ufeels).
+2. **Explore Settings**: Use the settings menu to customize your tracking preferences, turn on/off ads, or manage premium features.
+3. **Begin Tracking**: Start logging your emotions and discover insights over time with UFeels’ unique data visualization tools.
 
 ---
 
-## Data Collection Methodology
+## Future Improvements
 
-UFeels allows users to collect data on:
+- [ ] Enhance visualization options to offer interactive data graphs.
+- [ ] Add more customizable options for emotion categories and subcategories.
+- [ ] Explore cloud-based data backup while preserving user privacy.
 
-- **Emotion Occurrences**: Timestamps for each emotion.
-- **Location Data**: Optional location tracking to provide context for emotional patterns.
-- **Reaction Time**: Measurement of response times, which can indicate the strength or intensity of an emotion.
+---
 
-Example data format:
-
-```javascript
-var feelingData = {
-    "Happiness": {
-        msSubmitted: [1469648412340,1469648411140],
-        msReactionTime: [2989,2970],
-        location: ["lastKnown;51.487395;0.008363;London:United Kingdom"],
-        image: ["/storage/emulated/0/UFeels/UFeels1469644801704.jpg"]
-    },
-    ...
-};
-```
+Thank you for exploring UFeels! If you have any questions, feedback, or collaboration ideas, feel free to reach out or connect via GitHub.
