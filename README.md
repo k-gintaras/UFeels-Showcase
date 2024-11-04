@@ -10,6 +10,8 @@
 
 ---
 
+## Loads of Screenshots at the bottom of readme...
+
 ## Key Features
 
 - **Emotion Tracking**: Users can log their emotions with timestamps, location (optional), and custom categories.
@@ -29,31 +31,6 @@ UFeels was developed to address some of the challenges involved in emotional sel
 3. **Enhanced Self-Reflection**: The app is designed to discourage default responses (like "I’m fine") that can make self-development data less meaningful.
 
 ---
-
-## Screenshots/in-app-screenshots
-
-![Stats View](/Readme-Screenshots/image-11.png)
-![Home Page](/Readme-Screenshots/image-12.png)
-![Settings](/Readme-Screenshots/image-13.png)
-![Share With Camera](/Readme-Screenshots/image-14.png)
-![Notification Settings](/Readme-Screenshots/image-15.png)
-![Notification Choices](/Readme-Screenshots/image-16.png)
-![Allowed manual choice without randomness](/Readme-Screenshots/image-17.png)
-
-## Diagram examples
-
-![alt text](/Readme-Screenshots/image-1.png)
-![alt text](/Readme-Screenshots/image-2.png)
-![alt text](/Readme-Screenshots/image-3.png)
-![alt text](/Readme-Screenshots/image-4.png)
-
-## Guides
-
-![Settings](/Readme-Screenshots/image-5.png)
-![Feelings Choice 1](/Readme-Screenshots/image-6.png)
-![Feelings Choice](/Readme-Screenshots/image-7.png)
-![Notification Settings](/Readme-Screenshots/image-8.png)
-![Sharing Stats](/Readme-Screenshots/image-9.png)
 
 ## Concept Insights and Research
 
@@ -98,3 +75,28 @@ Thank you for exploring UFeels! If you have any questions, feedback, or collabor
 ## It Was once Published
 
 ![Publication Alpha](/Readme-Screenshots/image-10.png)
+
+## Screenshots/in-app-screenshots
+
+![Stats View](/Readme-Screenshots/image-11.png)
+![Home Page](/Readme-Screenshots/image-12.png)
+![Settings](/Readme-Screenshots/image-13.png)
+![Share With Camera](/Readme-Screenshots/image-14.png)
+![Notification Settings](/Readme-Screenshots/image-15.png)
+![Notification Choices](/Readme-Screenshots/image-16.png)
+![Allowed manual choice without randomness](/Readme-Screenshots/image-17.png)
+
+## Diagram examples
+
+![alt text](/Readme-Screenshots/image-1.png)
+![alt text](/Readme-Screenshots/image-2.png)
+![alt text](/Readme-Screenshots/image-3.png)
+![alt text](/Readme-Screenshots/image-4.png)
+
+## Guides
+
+![Settings](/Readme-Screenshots/image-5.png)
+![Feelings Choice 1](/Readme-Screenshots/image-6.png)
+![Feelings Choice](/Readme-Screenshots/image-7.png)
+![Notification Settings](/Readme-Screenshots/image-8.png)
+![Sharing Stats](/Readme-Screenshots/image-9.png)
