@@ -92,7 +92,8 @@ Thank you for exploring UFeels! If you have any questions, feedback, or collabor
 ## Interesting Data
 
 ![Feelings Data](/Readme-Screenshots/image-19.png)
-/Feelings Research/feelings-all-data.csv
+
+- [Feelings Data CSV](Feelings%20Research/feelings-all-data.csv): Contains collected emotional data for research and analysis.
 
 ## It Was once Published
 
