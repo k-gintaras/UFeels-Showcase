@@ -28,23 +28,23 @@ UFeels was developed to address some of the challenges involved in emotional sel
 2. **Flexible Categorization**: UFeels doesn’t limit users to standard categorizations of emotions; instead, it allows for personal, subjective categorization.
 3. **Enhanced Self-Reflection**: The app is designed to discourage default responses (like "I’m fine") that can make self-development data less meaningful.
 
-![Main Screen - Free Mode](https://github.com/k-gintaras/UFeels-Showcase/blob/master/Screenshots/main-free.jpg)
+![Main Screen - Free Mode](https://github.com/k-gintaras/UFeels-Showcase/blob/master/Screenshots/in-app-screenshots/main-free.jpg)
 _Main screen showcasing free tracking mode._
 
-![Random Emotion Selection Mode](https://github.com/k-gintaras/UFeels-Showcase/blob/master/Screenshots/random-mode.jpg)
+![Random Emotion Selection Mode](https://github.com/k-gintaras/UFeels-Showcase/blob/master/Screenshots/in-app-screenshots/random-mode.jpg)
 _Random mode for spontaneous emotion tracking._
 
 ---
 
-## Screenshots
+## Screenshots/in-app-screenshots
 
-![Settings Screen - No Ads](https://github.com/k-gintaras/UFeels-Showcase/blob/master/Screenshots/settings-noads.jpg)
+![Settings Screen - No Ads](https://github.com/k-gintaras/UFeels-Showcase/blob/master/Screenshots/in-app-screenshots/settings-noads.jpg)
 _Settings screen, ad-free experience with premium features._
 
-![Data Visualization - Stats](https://github.com/k-gintaras/UFeels-Showcase/blob/master/Screenshots/stats.jpg)
+![Data Visualization - Stats](https://github.com/k-gintaras/UFeels-Showcase/blob/master/Screenshots/in-app-screenshots/stats.jpg)
 _Visualization of emotional data through custom charts._
 
-![Stats - Day Overview](https://github.com/k-gintaras/UFeels-Showcase/blob/master/Screenshots/stats-friday.jpg)
+![Stats - Day Overview](https://github.com/k-gintaras/UFeels-Showcase/blob/master/Screenshots/in-app-screenshots/stats-friday.jpg)
 _Daily overview of emotions logged._
 
 ---
