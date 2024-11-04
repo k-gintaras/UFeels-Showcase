@@ -1,6 +1,6 @@
 # UFeels - Emotion Tracking Android App
 
-![Logo](Readme Screenshots/image-18.png)
+![Logo](/Readme-Screenshots/image-18.png)
 
 ## Project Overview
 
@@ -32,28 +32,28 @@ UFeels was developed to address some of the challenges involved in emotional sel
 
 ## Screenshots/in-app-screenshots
 
-![Stats View](Readme Screenshots/image-11.png)
-![Home Page](Readme Screenshots/image-12.png)
-![Settings](Readme Screenshots/image-13.png)
-![Share With Camera](Readme Screenshots/image-14.png)
-![Notification Settings](Readme Screenshots/image-15.png)
-![Notification Choices](Readme Screenshots/image-16.png)
-![Allowed manual choice without randomness](Readme Screenshots/image-17.png)
+![Stats View](/Readme-Screenshots/image-11.png)
+![Home Page](/Readme-Screenshots/image-12.png)
+![Settings](/Readme-Screenshots/image-13.png)
+![Share With Camera](/Readme-Screenshots/image-14.png)
+![Notification Settings](/Readme-Screenshots/image-15.png)
+![Notification Choices](/Readme-Screenshots/image-16.png)
+![Allowed manual choice without randomness](/Readme-Screenshots/image-17.png)
 
 ## Diagram examples
 
-![alt text](Readme Screenshots/image-1.png)
-![alt text](Readme Screenshots/image-2.png)
-![alt text](Readme Screenshots/image-3.png)
-![alt text](Readme Screenshots/image-4.png)
+![alt text](/Readme-Screenshots/image-1.png)
+![alt text](/Readme-Screenshots/image-2.png)
+![alt text](/Readme-Screenshots/image-3.png)
+![alt text](/Readme-Screenshots/image-4.png)
 
 ## Guides
 
-![Settings](Readme Screenshots/image-5.png)
-![Feelings Choice 1](Readme Screenshots/image-6.png)
-![Feelings Choice](Readme Screenshots/image-7.png)
-![Notification Settings](Readme Screenshots/image-8.png)
-![Sharing Stats](Readme Screenshots/image-9.png)
+![Settings](/Readme-Screenshots/image-5.png)
+![Feelings Choice 1](/Readme-Screenshots/image-6.png)
+![Feelings Choice](/Readme-Screenshots/image-7.png)
+![Notification Settings](/Readme-Screenshots/image-8.png)
+![Sharing Stats](/Readme-Screenshots/image-9.png)
 
 ## Concept Insights and Research
 
@@ -73,7 +73,7 @@ For further reading on emotional categories and concepts:
 
 ## Download and Setup
 
-1. **Download**: Install the app from the [Google Play Store](https://play.google.com/store/apps/details?id=com.ideatheReadme Screenshots/image.ufeels).
+1. **Download**: Install the app from the [Google Play Store](https://play.google.com/store/apps/details?id=com.ideathe/Readme-Screenshots/image.ufeels).
 2. **Explore Settings**: Use the settings menu to customize your tracking preferences, turn on/off ads, or manage premium features.
 3. **Begin Tracking**: Start logging your emotions and discover insights over time with UFeels’ unique data visualization tools.
 
@@ -91,9 +91,9 @@ Thank you for exploring UFeels! If you have any questions, feedback, or collabor
 
 ## Interesting Data
 
-![Feelings Data](Readme Screenshots/image-19.png)
+![Feelings Data](/Readme-Screenshots/image-19.png)
 /Feelings Research/feelings-all-data.csv
 
 ## It Was once Published
 
-![Publication Alpha](Readme Screenshots/image-10.png)
+![Publication Alpha](/Readme-Screenshots/image-10.png)
